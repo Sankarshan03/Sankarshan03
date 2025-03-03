@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sankarshan03
 - 👀 I’m interested in Quantitative finance and Analytics
-- 🌱 I've worked as data manager intern @Forfurs Petcare services which is an IIT Delhi based startup.
-- I am working as an Analyst intern @Citibank from May'23
-- Reach out to me at sankarshan.kulkarni@iitgn.ac.in 
+- I am currently a working profession at @Citibank
+- Reach out to me at ksankarshan1208@gmail.com 
 
 <!---
 Sankarshan03/Sankarshan03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
