@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sankarshan03
 - 👀 I’m interested in Quantitative finance and Analytics
-- I am currently a working profession at @Citibank
+- I am currently a working professional at @Citibank
 - Reach out to me at ksankarshan1208@gmail.com 
 
 <!---
